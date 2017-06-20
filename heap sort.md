@@ -26,7 +26,7 @@ function max_heap(a, i, len){//最大堆函数
   }
   if(largest !== i){
     [a[i], a[largest]] = [a[largest], a[i]]
-    max_heap(a, largest)
+    max_heap(a, largest, len)
   }
 
 }
