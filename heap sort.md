@@ -2,7 +2,7 @@
 # 堆排序
 
 ## 思路： 先把所给数组元素排成最大堆，然后把堆顶的元素与最后一个元素交换位置，把剩下的元素继续排成最大堆，递归。
-<pre>
+```js
 function hearSort(a){
   var len = a.length //获取数组长度
   heapify(a, len)//先排成最大堆
@@ -36,5 +36,5 @@ function heapify(a, len){//堆排序函数
     max_heap(a, i, len)
   }
 }
-</pre>
+```
 done!
