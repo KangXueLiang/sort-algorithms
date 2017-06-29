@@ -22,7 +22,7 @@
 
 ## 2. 动图演示
 
-![动图演示](res/heapSort.gif)
+![动图演示](https://github.com/hustcc/JS-Sorting-Algorithm/blob/master/res/heapSort.gif?raw=true)
 ## 3. 代码实现。
 ```js
 function hearSort(a){
