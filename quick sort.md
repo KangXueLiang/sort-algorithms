@@ -25,6 +25,10 @@
 ## 2. 动图演示
 
 ![动图演示](https://github.com/hustcc/JS-Sorting-Algorithm/blob/master/res/quickSort.gif?raw=true)
+
+## 3. 代码实现
+
+### 首先是第一种
 ```js
   function quicksort(arr){
     if(arr.length <= 1){ //判断数组长度，如果小于等于1，直接返回数组
