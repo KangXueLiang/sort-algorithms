@@ -2,4 +2,5 @@
 * 用自己的代码写一写常见的算法和自己的思路。
 
 1. [快速排序](https://github.com/KangXueLiang/sort-algorithms/blob/master/quick%20sort.md)
-1. [堆排序](https://github.com/KangXueLiang/sort-algorithms/blob/master/heap%20sort.md)
+2. [堆排序](https://github.com/KangXueLiang/sort-algorithms/blob/master/heap%20sort.md)
+3. [冒泡排序](https://github.com/KangXueLiang/sort-algorithms/blob/master/bubble%20sort.md) 
