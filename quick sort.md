@@ -47,7 +47,7 @@
 ```
 ### 当然，上述代码有个不好的地方就是每次递归都会新建两个数组，浪费了大量的空间，还不够优化。以下为原地快排：
 ```js
-function paritition(arr, low, high) {
+function partition(arr, low, high) {
   let pivot = arr[low];
   while (low < high) {
     while (low < high && arr[high] > pivot) {
